@@ -1,6 +1,6 @@
 .<%= prefix %> {\n
-    background: url(<%= backgroundImage %>) no-repeat;\n
     display: block;\n
+    background: url(<%= backgroundImage %>) no-repeat;\n
 }\n
 \n
 .stitches-<%= prefix %>(@x: 0, @y: 0, @width: 0, @height: 0) {\n
